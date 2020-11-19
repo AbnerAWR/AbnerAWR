@@ -1,5 +1,5 @@
 <h4 align="center">
-<gif main="./AbnerAWR/blob/main/AcPE.gif"/><br>
+![](AcPE.gif)
  <b>I love black holes ❤ </b>
 </h4>
 
