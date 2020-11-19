@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="/AbnerAWR/blob/main/AcPE.gif" width="40" height="40" />
+<img src="/AbnerAWR/blob/main/AcPE.gif"/>
  <b>I love black holes ❤ </b>
 </h4>
 
