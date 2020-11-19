@@ -1,6 +1,6 @@
 <h4 align="center">
-<img src="./AbnerAWR/blob/main/AcPE.gif" width="250px" /><br>
- <b>Seja um verdadeiro Heroi!</b> 🦸‍♂️
+<img src="./AbnerAWR/blob/main/AcPE.gif"/><br>
+ <b>I love black holes ❤ </b>
 </h4>
 
 ### Hi there! My name is Abner and.... I'm a Full Stack Developer.
