@@ -1,14 +1,15 @@
 <h4 align="center">
+### Hi there! My name is Abner and.... I'm a Full Stack Developer.
+
+</h4>
+
+<h4 align="center">
  
 ![AcPE](https://user-images.githubusercontent.com/62721361/99719951-c5115400-2a8b-11eb-95e2-d42392a7d274.gif)
 
  <b>I love black holes ❤ </b>
 </h4>
 
-<h4 align="center">
-### Hi there! My name is Abner and.... I'm a Full Stack Developer.
-
-</h4>
 
 
 [![likedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abner-wesley-ribeiro-6731bb171/)](https://www.linkedin.com/in/abner-wesley-ribeiro-6731bb171/)
