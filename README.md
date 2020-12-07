@@ -7,7 +7,7 @@ Hi there! My name is Abner and.... I'm a Full Stack Developer.
  
 ![10f63032274153.56a30a3b88158](https://raw.githubusercontent.com/AbnerAWR/AbnerAWR/main/10f63032274153.56a30a3b88158.gif)
 
- <b>I love black holes ❤ </b>
+ <b>🐱</b>
 </h4>
 
 
