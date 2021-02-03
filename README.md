@@ -1,5 +1,5 @@
 <h4 align="center">
-Hi there! My name is Abner and.... I'm a Full Stack Developer.
+Yo! My name is Abner and.... I'm a Full Stack Developer.
 
 </h4>
 
