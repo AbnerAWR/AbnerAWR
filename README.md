@@ -19,7 +19,7 @@ Yo! My name is Abner and.... I'm a Full Stack Developer.
     <summary>My Github statistics</summary>
     <br>
     <p align="center">
-       <img src="https://github-readme-stats.vercel.app/api?username=AbnerAWR&theme=tokyonight&show_icons=true&include_all_commits=true" alt="Github statistics" />
+       <img src="https://github-readme-stats.vercel.app/api?username=AbnerAWR&theme=gruvbox&show_icons=true&include_all_commits=true" alt="Github statistics" />
     </p>
   <br>
     <p align="center">
