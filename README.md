@@ -13,7 +13,6 @@ Yo! My name is Abner and.... I'm a Full Stack Developer.
 
 
 [![likedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abner-wesley-ribeiro-6731bb171/)](https://www.linkedin.com/in/abner-wesley-ribeiro-6731bb171/)
-[![facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/abner.wesley.gg/)](https://www.facebook.com/abner.wesley.gg)
 
 <details>
     <summary>My Github statistics</summary>
